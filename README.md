@@ -14,7 +14,7 @@ Each file contains the following variables, in the reported order:
 - rplCnt (1 value): counter used when replanning occurs
 - cmdTime (1 value): current time
 - norm of SIGMA (1 value): norm of the BSP covariance matrix
-- z (3 values): measure of the current 3D position and orientation of the vehicle
-- noise (3 values): noise added to position/orientation measurements
+- z (3 values): measure of the current 3D position and orientation of the vehicle (x-y-psi)
+- noise (3 values): noise added to position/orientation measurements (x-y-psi)
 
 For details about the meaning of the variable, please refer to the article above.
