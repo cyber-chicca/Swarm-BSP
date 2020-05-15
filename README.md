@@ -17,4 +17,4 @@ Each file contains the following variables, in the reported order:
 - z (3 values): measure of the current 3D position and orientation of the vehicle (x-y-psi)
 - noise (3 values): noise added to position/orientation measurements (x-y-psi)
 
-For details about the meaning of the variable, please refer to the article above.
+For details about the meaning of the variables, please refer to the article above.
